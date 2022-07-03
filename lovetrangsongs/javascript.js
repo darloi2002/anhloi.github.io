@@ -52,19 +52,19 @@ const app = {
             image: "a4.jpg"
         },
         {
-            name: "Bài này chưa làm",
+            name: "Bài này anh chưa làm",
             singer: "Raftaar",
             path: "https://mp3.vlcmusic.com/download.php?track_id=25791&format=320",
             image: "https://a10.gaanacdn.com/images/albums/72/3019572/crop_480x480_3019572.jpg"
         },
         {
-            name: "Cái này chưa làm",
+            name: "Cái này cũng chưa làm",
             singer: "Raftaar x kr$na",
             path: "https://mp3.filmisongs.com/go.php?id=Damn%20Song%20Raftaar%20Ft%20KrSNa.mp3",
             image: "https://filmisongs.xyz/wp-content/uploads/2020/07/Damn-Song-Raftaar-KrNa.jpg"
         },
         {
-            name: "Cái này chưa làm",
+            name: "Cái này chưa làm nốt :V",
             singer: "Raftaar x Harjas",
             path: "https://mp3.vlcmusic.com/download.php?track_id=27145&format=320",
             image: "https://a10.gaanacdn.com/gn_img/albums/YoEWlabzXB/oEWlj5gYKz/size_xxl_1586752323.webp"
