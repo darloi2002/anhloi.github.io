@@ -50,26 +50,25 @@ const app = {
             singer: "Raftaar x Nawazuddin Siddiqui",
             path: "https://mp3-s1-m-zmp3.zmdcdn.me/c92822f55db1b4efeda0/4277738103585309815?authen=exp=1657013976~acl=/c92822f55db1b4efeda0/*~hmac=6d98e0f36b53a908a91f0fee42762355&fs=MTY1Njg0MTE3NjQ5NXx3ZWJWNHwxMDMdUngMTA5LjQzLjU2&filename=Yêu 4.mp3",
             image: "a4.jpg"
+        },
+        {
+            name: "Bài này chưa làm",
+            singer: "Raftaar",
+            path: "https://mp3.vlcmusic.com/download.php?track_id=25791&format=320",
+            image: "https://a10.gaanacdn.com/images/albums/72/3019572/crop_480x480_3019572.jpg"
+        },
+        {
+            name: "Cái này chưa làm",
+            singer: "Raftaar x kr$na",
+            path: "https://mp3.filmisongs.com/go.php?id=Damn%20Song%20Raftaar%20Ft%20KrSNa.mp3",
+            image: "https://filmisongs.xyz/wp-content/uploads/2020/07/Damn-Song-Raftaar-KrNa.jpg"
+        },
+        {
+            name: "Cái này chưa làm",
+            singer: "Raftaar x Harjas",
+            path: "https://mp3.vlcmusic.com/download.php?track_id=27145&format=320",
+            image: "https://a10.gaanacdn.com/gn_img/albums/YoEWlabzXB/oEWlj5gYKz/size_xxl_1586752323.webp"
         }
-        // ,
-        // {
-        //     name: "Aage Chal",
-        //     singer: "Raftaar",
-        //     path: "https://mp3.vlcmusic.com/download.php?track_id=25791&format=320",
-        //     image: "https://a10.gaanacdn.com/images/albums/72/3019572/crop_480x480_3019572.jpg"
-        // },
-        // {
-        //     name: "Damn",
-        //     singer: "Raftaar x kr$na",
-        //     path: "https://mp3.filmisongs.com/go.php?id=Damn%20Song%20Raftaar%20Ft%20KrSNa.mp3",
-        //     image: "https://filmisongs.xyz/wp-content/uploads/2020/07/Damn-Song-Raftaar-KrNa.jpg"
-        // },
-        // {
-        //     name: "Feeling You",
-        //     singer: "Raftaar x Harjas",
-        //     path: "https://mp3.vlcmusic.com/download.php?track_id=27145&format=320",
-        //     image: "https://a10.gaanacdn.com/gn_img/albums/YoEWlabzXB/oEWlj5gYKz/size_xxl_1586752323.webp"
-        // }
     ],
     setConfig: function(key, value) {
         this.config[key] = value;
